@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #003580;
+}
+.navbarBody{
+    color: aliceblue;
+}
+.navbarBody:hover{
+    color: rgb(221, 216, 216);
+}
